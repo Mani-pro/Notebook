@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: notebook.Graphic
+Class-Path: C:\Users\Mani\IdeaProjects\Notebook\.classpath
+
